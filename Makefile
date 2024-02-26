@@ -45,7 +45,7 @@ check:
 	docker logs -f $(DOCKER_NAME)
 
 stop:
-	-docker rm -f $(DOCKER_NAME) 2> /dev/null || :
+	-docker rm -f $(CHATBOT_NAME) 2> /dev/null || :
 
 
 # Push the docker image to the registry. You must have write access to the docker hub openhorizon user
@@ -53,7 +53,7 @@ docker-push: build
 	docker push $(DOCKER_HUB_ID)/$(DOCKER_NAME):$(CHATBOT_VERSION)
 
 clean:
-	-docker rm -f $(DOCKER_NAME) 2> /dev/null || :
-	-docker rmi $(DOCKER_HUB_ID)/$(DOCKER_NAME):$(CHATBOT_VERSION) 2> /dev/null || :
+	-docker rm -f $(CHATBOT_NAME) 2> /dev/null || :
+	-docker rmi $(DOCKER_HUB_ID)/$(CHATBOT_NAME):$(CHATBOT_VERSION) 2> /dev/null || :
 
 .PHONY: default all build run check stop hznbuild hznstart hznstop publish-service publish-service-only publish-pattern clean
