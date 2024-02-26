@@ -2,7 +2,7 @@
 
 ## Chatbot Demo
 
-For details about using this service, see [chatbot.md](chatbot.md).
+For details about using this service, 5630 notes in Canvas
 
 ## Building and Publishing
 
