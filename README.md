@@ -11,6 +11,7 @@ For details about using this service, 5630 notes in Canvas
 3. Create a subdirectoy under home
    
    `mkdir YOUR_NAME`
+   
    `cd YOUR_NAME`
    
 5. Clone this repo:
