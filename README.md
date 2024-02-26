@@ -16,7 +16,7 @@ For details about using this service, 5630 notes in Canvas
    
 5. Clone this repo:
 
-   `git clone repo`
+   `git clone https://github.com/iportilla/5720-bot.git`
    
 7. Navigate to new folder
    
