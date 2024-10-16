@@ -2,7 +2,10 @@
 
 ## Chatbot Demo
 
-For details about using this service, 5630 notes in Canvas
+For details about using this service, 5350 notes in Canvas, also review
+
+https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat
+
 
 1. Login to Azure VM
    
