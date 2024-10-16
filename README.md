@@ -30,8 +30,13 @@ https://youtu.be/cKy1kAe2WFU
    `cd 5350-bot`
    
 9. Update Makefile with PORT given in class
-    
+
    `vi Makefile`
+
+   ```
+   # Update PORT value to any port in ranges
+   # 80-90,or 8000-8010 or 8080-8090
+   ```
 
 
 
