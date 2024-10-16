@@ -23,7 +23,7 @@ https://youtu.be/cKy1kAe2WFU
    
 5. Clone this repo:
 
-   `git clone https://github.com/iportilla/5720-bot.git`
+   `git clone https://github.com/iportilla/5350-bot.git`
    
 7. Navigate to new folder
    
