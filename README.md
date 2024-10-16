@@ -27,7 +27,7 @@ https://youtu.be/cKy1kAe2WFU
    
 7. Navigate to new folder
    
-   `cd 5720-bot`
+   `cd 5350-bot`
    
 9. Update Makefile with PORT given in class
     
