@@ -6,6 +6,10 @@ For details about using this service, 5350 notes in Canvas, also review
 
 https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat
 
+See details at
+
+https://youtu.be/cKy1kAe2WFU
+
 
 1. Login to Azure VM
    
