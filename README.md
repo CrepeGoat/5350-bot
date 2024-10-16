@@ -37,7 +37,7 @@ https://youtu.be/cKy1kAe2WFU
 
 ## Building and Publishing
 
-**Note:** if you build your own chatbot update index.html with your chatbot URL.
+**Note:** When you build your own chatbot,  update `public_html\index.html` with your chatbot URL.
 
 
 ```
