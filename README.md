@@ -15,7 +15,8 @@ https://youtu.be/cKy1kAe2WFU
    
    `ssh azureuser@IP_ADDRESS`
 
-2. Change directory
+2. Change directory:
+   
    `cd 5350`
    
 4. Create a subdirectoy under home
