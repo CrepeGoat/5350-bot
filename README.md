@@ -14,8 +14,11 @@ https://youtu.be/cKy1kAe2WFU
 1. Login to Azure VM
    
    `ssh azureuser@IP_ADDRESS`
+
+2. Change directory
+   `cd 5350`
    
-3. Create a subdirectoy under home
+4. Create a subdirectoy under home
    
    `mkdir YOUR_NAME`
    
