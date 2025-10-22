@@ -17,23 +17,18 @@ https://youtu.be/cKy1kAe2WFU
 
 2. Change directory:
    
-   `cd 5350`
+   `cd team-#`
    
-4. Create a subdirectoy under home
    
-   `mkdir YOUR_NAME`
-   
-   `cd YOUR_NAME`
-   
-5. Clone this repo:
+3. Clone this repo:
 
    `git clone https://github.com/iportilla/5350-bot.git`
    
-7. Navigate to new folder
+4. Navigate to new folder
    
    `cd 5350-bot`
    
-9. Update Makefile with PORT given in class
+5. Update Makefile with PORT given in class
 
    `vi Makefile`
 
