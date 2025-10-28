@@ -1,9 +1,9 @@
-from flask import Flask, request, jsonify
 import openai
-import datetime
+from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 openai.api_key = "sk-123456789"  # Hardcoded key
+
 
 @app.route("/chat", methods=["POST"])
 def chat():
